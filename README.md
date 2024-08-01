@@ -6,7 +6,7 @@ This project implements a movie recommender system using Neural Collaborative Fi
 * Data: The dataset was sourced from [GroupLens[(https://grouplens.org/datasets/movielens/).
 
 ## Components
-1 ** Model Architecture:**
+1 **Model Architecture:**
 * Embedding Layers: Map users and items to latent vectors.
 * Concatenation: Combine user and item embeddings.
 * Neural Network: A Multi-Layer Perceptron (MLP) processes the concatenated vectors to predict ratings.
