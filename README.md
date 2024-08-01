@@ -1,5 +1,4 @@
-# Recommender_System
-Movie Recommender System using Neural Collaborative Filtering
+# Movie Recommender System
 This project implements a movie recommender system using Neural Collaborative Filtering (NCF) with PyTorch. The model predicts user ratings for movies based on their interactions and the features of both users and movies.
 
 Features
