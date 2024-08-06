@@ -2,7 +2,7 @@
 
 This project implements a movie recommender system using Neural Collaborative Filtering (NCF) with PyTorch. The model predicts user ratings for movies based on their interactions and the features of both users and movies.
 
-Features
+**Features**
 Neural Collaborative Filtering (NCF): Utilizes deep learning to model complex user-item interactions.
 Data: The dataset was sourced from GroupLens.
 Components
